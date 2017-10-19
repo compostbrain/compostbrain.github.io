@@ -59,4 +59,4 @@ class Player < ApplicationRecord
 
 
 - Run  the migration
-bin/rails g migration
+bin/rails db:migrate

@@ -23,6 +23,7 @@ twitter_username: compostbrain
 github_username:  compostbrain
 
 # Build settings
+google_analytics: UA-NNNNNNNN-N
 markdown: kramdown
 theme: minima
 plugins:

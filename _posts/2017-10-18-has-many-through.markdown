@@ -2,7 +2,7 @@
 layout: post
 title:  "Has Many Through"
 date:   2017-10-11 21:56:25 -0400
-categories: jekyll update
+categories: rails orm code
 ---
 
 This will document how to set up a join table using has_many through in rails.
@@ -59,4 +59,4 @@ class Player < ApplicationRecord
 
 
 - Run  the migration
-bin/rails db:migrate
+`bin/rails db:migrate`

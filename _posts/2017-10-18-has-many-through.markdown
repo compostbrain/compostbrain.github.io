@@ -2,7 +2,7 @@
 layout: post
 title:  "Has Many Through"
 date:   2017-10-11 21:56:25 -0400
-categories: rails orm code
+categories: rails orm code ruby
 ---
 
 This will document how to set up a join table using has_many through in rails.

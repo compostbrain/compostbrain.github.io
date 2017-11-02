@@ -47,7 +47,7 @@ Notice how in each input tag ```id="round_status_*"``` matches the label tag ```
 "round_status"=>{"1"=>"active", "2"=>"active", "3"=>"active", "4"=>"active"}
 ```
 
-If the user unchecks the first checkbox and submitts the form the params will include"
+If the user un-checks the first checkbox and submits the form the params will include"
 ```
  "round_status"=>{"2"=>"active", "3"=>"active", "4"=>"active"}
 ```

@@ -9,7 +9,7 @@ This will document how to set up a join table using has_many through in rails.
 
 ### Step 1
 
-- Create a model for the join table with references to the mdoels being joined
+- Create a model for the join table with references to the models being joined
 
 ```terminal
 bin/rails g model round_status player:references round:references status:integer
@@ -55,8 +55,5 @@ class Player < ApplicationRecord
   has_many :round_statuses
   has_many :rounds, through: :round_statuses
   ```
-
-
-
 - Run  the migration
 `bin/rails db:migrate`

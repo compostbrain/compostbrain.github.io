@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Team Lead at Ruby for Good
-date: '2018-07-19 10:30'
+title: 'Team Lead at Ruby for Good'
+date: 2018-7-19 10:30:26 -0400
 categories: rails ruby
 ---
 
